@@ -1,0 +1,257 @@
+[
+    [
+        "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Ergo/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Ergo/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1520426095749,
+            "changeTime": 1520426095749,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Ergo/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Ergo/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1520426095754,
+            "changeTime": 1520426095754,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Ergo/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Ergo/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1520428673990,
+            "changeTime": 1520428673990,
+            "contentHash": "a406c11f818af8e691af68d80986bec56f0d10c1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Ergo/force-app/main/default/VF",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Ergo/force-app/main/default/VF",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1520428594646,
+            "changeTime": 1520428594646,
+            "contentHash": "e56f9346f4cded482b0686f06cb1fe1d8e96796f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Ergo/force-app/main/default/VF/CountryCallout.page",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Ergo/force-app/main/default/VF/CountryCallout.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 685,
+            "modifiedTime": 1520428594646,
+            "changeTime": 1520428594647,
+            "contentHash": "651eea707d9eee5099d759e1b1cd7da3143bcec2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Ergo/force-app/main/default/VF/CountryCallout.page-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Ergo/force-app/main/default/VF/CountryCallout.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 196,
+            "modifiedTime": 1520428594646,
+            "changeTime": 1520428594647,
+            "contentHash": "3af334189de27c01a199d891fe7bee8da206d5b0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Ergo/force-app/main/default/apex",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Ergo/force-app/main/default/apex",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1520428625037,
+            "changeTime": 1520428625037,
+            "contentHash": "6b648f28cc20fa8be488875eae3a335168e3cf95",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Ergo/force-app/main/default/apex/ISOtoCodeService.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Ergo/force-app/main/default/apex/ISOtoCodeService.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1140,
+            "modifiedTime": 1520428625037,
+            "changeTime": 1520428625038,
+            "contentHash": "86fffcf2364bf678e542c5be707ff53e18c5e3ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Ergo/force-app/main/default/apex/ISOtoCodeService.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Ergo/force-app/main/default/apex/ISOtoCodeService.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 194,
+            "modifiedTime": 1520428625037,
+            "changeTime": 1520428625038,
+            "contentHash": "330cfb9c3d0e5e908701e888a93b9f0a36761281",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Ergo/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Ergo/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1520425483654,
+            "changeTime": 1520425483654,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Ergo/force-app/main/default/permissionsets",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Ergo/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1520427673487,
+            "changeTime": 1520427673487,
+            "contentHash": "2f64255cffcbfdb0f606837645b48b222f9d7446",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Ergo/force-app/main/default/permissionsets/Country.permissionset-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Ergo/force-app/main/default/permissionsets/Country.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 343,
+            "modifiedTime": 1520427673487,
+            "changeTime": 1520427673487,
+            "contentHash": "8aab8de0741e5284092fe87031a2334be9e5d27a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Ergo/force-app/main/default/remoteSiteSettings",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Ergo/force-app/main/default/remoteSiteSettings",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1520427673489,
+            "changeTime": 1520427673489,
+            "contentHash": "e402f342299fb04cb76ce208e120dd7b6369d460",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Ergo/force-app/main/default/remoteSiteSettings/Groupkt.remoteSite-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Ergo/force-app/main/default/remoteSiteSettings/Groupkt.remoteSite-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 262,
+            "modifiedTime": 1520427673489,
+            "changeTime": 1520427673489,
+            "contentHash": "4b725f33b9c88713a34e18932862c4a7aca48856",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Ergo/force-app/main/default/tabs",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Ergo/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1520427673461,
+            "changeTime": 1520427673461,
+            "contentHash": "67aebcab75515152482323604eb3f90fcdb0013b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Ergo/force-app/main/default/tabs/Country.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Ergo/force-app/main/default/tabs/Country.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 243,
+            "modifiedTime": 1520427673461,
+            "changeTime": 1520427673461,
+            "contentHash": "29229352fd04c52046484eaf1c04600dbf78a127",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Ergo",
+        {
+            "state": "n",
+            "sourcePath": "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Ergo",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1520426089707,
+            "changeTime": 1520426089707,
+            "contentHash": "345c04f0bb30a9c2f22b188cc96e39de4179450a",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
